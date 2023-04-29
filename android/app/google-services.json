@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "155812074303",
+    "project_id": "restaurant-table-booking-1a078",
+    "storage_bucket": "restaurant-table-booking-1a078.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155812074303:android:7bbcbe01019fba87a9f98a",
+        "android_client_info": {
+          "package_name": "com.example.restaurant_table_reservation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "155812074303-cp2v00otl1fpcqdrqj89ep73cak5oqjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIm12kKsiQlkpnl4RhBp8_yhx-gLDIjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "155812074303-cp2v00otl1fpcqdrqj89ep73cak5oqjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

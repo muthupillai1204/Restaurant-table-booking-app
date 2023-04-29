@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Vada Pav",
+            "desc": "Buns stuffed with a tasty aloo vada",
+            "price": 15,
+            "color": "#33505a",
+            "image": "assets/images/vadapav.png"
+        },
+        {
+            "id": 2,
+            "name": "Maagi",
+            "desc": "Classic veg-maagi",
+            "price": 15,
+            "color": "#00ac51",
+            "image": "assets/images/maagi.png"
+        },
+        {
+            "id": 3,
+            "name": "Samosa Pav",
+            "desc": "include spiced potato,onion & peas served with chutney",
+            "price": 18,
+            "color": "#e0bfae",
+            "image": "assets/images/samosapav.png"
+        },
+        {
+            "id": 4,
+            "name": "Dosa",
+            "desc": "Sada Crispy dosa with coconut chutney and saambar",
+            "price": 30,
+            "color": "#544ee4",
+            "image": "assets/images/dosa.png"
+        },
+        {
+            "id": 5,
+            "name": "Masala Dosa",
+            "desc": "dosa stuffed with potato & served with chutney ",
+            "price": 35,
+            "color": "#e3e4e9",
+            "image": "assets/images/masaladosa.png"
+        },
+        {
+            "id": 6,
+            "name": "Idli",
+            "desc": "Sada steam idli served with sambar and coconut chutney",
+            "price": 30,
+            "color": "#f73984",
+            "image": "assets/images/idli.png"
+        },
+        {
+            "id": 7,
+            "name": "Fried Rice",
+            "desc": "In chinese style served with shezwan chutney & soya sauce",
+            "price": 75,
+            "color": "#1c1c1c",
+            "image": "assets/images/friedrice.png"
+        },
+        {
+            "id": 8,
+            "name": "Noodles",
+            "desc": "In chinese style served with shezwan chutney & soya sauce",
+            "price": 75,
+            "color": "#7c95eb",
+            "image": "assets/images/noodles.png"
+        }
+    ]
+}
